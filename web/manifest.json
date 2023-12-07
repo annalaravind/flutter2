@@ -1,6 +1,6 @@
 {
-    "name": "your_project_name",
-    "short_name": "your_project_name",
+    "name": "flutter_interface",
+    "short_name": "flutter_interface",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
